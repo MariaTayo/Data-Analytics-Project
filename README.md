@@ -10,4 +10,4 @@ Key focus:
 - Understand how customer churn differs across the different demographics
 - Predict the customers that are likely to churn based on analysis
 
-Data Source: https://www.kaggle.com/datasets/anwarsan/credit-card-bank-churn
+Data Source: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers - https://leaps.analyttica.com/
