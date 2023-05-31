@@ -9,3 +9,5 @@ Key focus:
 - Identify how many customers have churned (left the credit card services)
 - Understand how customer churn differs across the different demographics
 - Predict the customers that are likely to churn based on analysis
+
+Data Source: https://www.kaggle.com/datasets/anwarsan/credit-card-bank-churn
