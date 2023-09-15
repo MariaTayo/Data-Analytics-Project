@@ -35,7 +35,7 @@ As part of the cleaning process:
 * How many customers have churned (attrition flag = 1).
 Using the COUNTIF function, it was identified that 1,627 customers had churned.
 
-* How does churn (attrition) look across the different demographics?
+#### How does churn (attrition) look across the different demographics?
 I started my analysis using Microsoft Excel before moving on to SQL and Python for more advanced analysis:
 * In Microsoft Excel, I was able to identify that most of the customers who had atttrited were from the female gender at 930. Analysis also showed that the majority of customers as a whole were also females at 4,428. I also identified that atrittion count was highest within the middle age customer bracket (1,384). Insights also highlighted that 3,561 customers had an income of less than $40k which was the majority. When looking at the customers card type, a significant amount of customers who had attrited held a blue card type (1,286). This meant 92.9% of customers who had attrited held a blue card type. 
   
