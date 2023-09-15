@@ -45,7 +45,7 @@ Analysis using both Microsoft Excel and SQL highlighted that the average utilisa
 
 ## Recommendations and Insights
 1. Focus on the areas where the bank is losing customers based on demographics. The insights showed that churn is typically coming from Females, the Middle Aged, those who are Married and Single, Blue Card Holders and those with a dependent count of 2/3 dependents.
-2. The bank could offer incentivves by introducing rewards/special offers to those customers and also monitor their competitior's offerings. It is possible that customers are churning to competitors. The bank manager can use the information gained from the utilisation ratio and other variables e.g. card type) for females, to strategise on the best approach.
+2. The bank could offer incentives by introducing rewards/special offers to those customers and also monitor their competitior's offerings. It is possible that customers are churning to competitors. The bank manager can use the information gained from the utilisation ratio and other variables e.g. card type) for females, to strategise on the best approach.
 3. Be more proactive with communication. Increase frequency of customer contacts to keep customers up to date with services and incentives, to ask for feedback, and to identfy any issues as early as possible. 
 
 Data Source: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers - https://leaps.analyttica.com/
