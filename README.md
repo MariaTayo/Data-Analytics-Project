@@ -7,15 +7,15 @@ As part of my project, I used a financial dataset consisting of a number of cred
 ## Business Challenge 
 A manager at the bank is disturbed with more and more customers leaving their credit card services. They have requested that I predict for them who is going to get churned so they can proactively go to the customer to provide them with better services and turn customers' decisions in the opposite direction.
 
+A few key questions:
+* How many customers have churned (attrition flag = 1)
+* How does churn (attrition) look across the different demographics?
+* What's the average utilisation?
+
 ## Objectives 
 1. Conduct analysis and identify how many customers have churned (left the credit card services).
 2. Understand how customer churn differs across the different demographics.
 3. Predict the customers that are likely to churn based on analysis, so that the bank manager can provide them with better services.
-
-A few other things I looked at consisted of the following questions:
-* How many customers have churned (attrition flag = 1)
-* How does churn (attrition) look across the different demographics?
-* What's the average utilisation?
 
 ## Tools used
 * Microsoft Excel
