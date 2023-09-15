@@ -33,7 +33,7 @@ As part of the cleaning process:
 
 ## Analysis and Findings
 
-#### How many customers have churned (attrition flag = 1).
+#### How many customers have churned (attrition flag = 1)?
 Using the COUNTIF function, it was identified that 1,627 customers had churned.
 
 #### How does churn (attrition) look across the different demographics?
