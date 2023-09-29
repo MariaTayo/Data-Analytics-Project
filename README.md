@@ -37,9 +37,14 @@ As part of the cleaning process:
 Using the COUNTIF function, it was identified that 1,627 customers had churned (out of 10,127 customers).
 
 #### How does churn (attrition) look across the different demographics?
-I started my analysis using Microsoft Excel before moving on to SQL and Python for more advanced analysis:
-* In Microsoft Excel, I was able to identify that most of the customers who had atttrited were from the female gender (930). Analysis also showed that the majority of customers as a whole were also females at 4,428. I also identified that atrittion count was highest within the middle age customer bracket (1,384). Insights also highlighted that 3,561 customers had an income of less than $40k which was the majority. When looking at the customers card type, a significant amount of customers who had attrited held a blue card type (1,286), which amounted to 92.9% of attrited customers. 
-  
+I started my analysis using Microsoft Excel before moving on to Python and SQL for more advanced analysis:
+* In Microsoft Excel, I was able to identify that most of the customers who had atttrited were from the female gender (930). Analysis also showed that the majority of customers as a whole were also females at 4,428. I also identified that atrittion count was highest within the middle age customer bracket (1,384). Insights also highlighted that 3,561 customers had an income of less than $40k which was the majority. When looking at the customers card type, a significant amount of customers who had attrited held a blue card type (1,286), which amounted to 92.9% of attrited customers.
+* I then used Python to further understand the data including the descriptive statistics of the numerical values and an understanding of the demographics of the customers as a whole.
+
+<img width="517" alt="image" src="https://github.com/MariaTayo/Data-Analytics-Project/assets/117232459/b6f591ba-998b-4136-a218-027858dc7e42">
+![download](https://github.com/MariaTayo/Data-Analytics-Project/assets/117232459/1633cc81-8f7c-4bc1-b342-c8eb0ccb975a)
+![download](https://github.com/MariaTayo/Data-Analytics-Project/assets/117232459/9aae77c0-f126-4d45-9e93-aa42f80416d2)
+
 #### What's the average utilisation?
 Analysis using both Microsoft Excel and SQL highlighted that the average utilisation ratio was 0.27. 
 
