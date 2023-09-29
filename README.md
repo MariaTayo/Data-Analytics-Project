@@ -46,6 +46,10 @@ I started my analysis using Microsoft Excel before moving on to Python and SQL f
 ![download](https://github.com/MariaTayo/Data-Analytics-Project/assets/117232459/1633cc81-8f7c-4bc1-b342-c8eb0ccb975a)
 ![download](https://github.com/MariaTayo/Data-Analytics-Project/assets/117232459/9aae77c0-f126-4d45-9e93-aa42f80416d2)
 
+* Lastly, I did some data exploration using SQL to understand customers' behaviour based on the customer utilisation ratio. The utilisation ratio was slightly higher for females than males for customers who had attrited. I also looked at the customers' dependent count for both genders. The average dependent count was 2.
+  
+![Screenshot 2023-09-29 143326](https://github.com/MariaTayo/Data-Analytics-Project/assets/117232459/2c0c0562-2b97-47ee-9c96-54b9d4017baf)
+
 #### What's the average utilisation?
 Analysis using both Microsoft Excel and SQL highlighted that the average utilisation ratio was 0.27. 
 
