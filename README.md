@@ -42,6 +42,7 @@ I started my analysis using Microsoft Excel before moving on to Python and SQL f
 * I then used Python to further understand the data including the descriptive statistics of the numerical values and an understanding of the demographics of the customers as a whole.
 
 <img width="517" alt="image" src="https://github.com/MariaTayo/Data-Analytics-Project/assets/117232459/b6f591ba-998b-4136-a218-027858dc7e42">
+
 ![download](https://github.com/MariaTayo/Data-Analytics-Project/assets/117232459/1633cc81-8f7c-4bc1-b342-c8eb0ccb975a)
 ![download](https://github.com/MariaTayo/Data-Analytics-Project/assets/117232459/9aae77c0-f126-4d45-9e93-aa42f80416d2)
 
