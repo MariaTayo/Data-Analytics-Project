@@ -47,7 +47,7 @@ Analysis using both Microsoft Excel and SQL highlighted that the average utilisa
 
 I then created a dashboard using Power BI to visualise my main findings. 
 
-[Power BI Dashboard.pdf](https://github.com/MariaTayo/Data-Analytics-Project/files/12764629/Power.BI.Dashboard.pdf)
+![image](https://github.com/MariaTayo/Data-Analytics-Project/assets/117232459/8c778dd2-b4f1-4450-90b5-8176f61a5193)
 
 ## Recommendations and Insights
 1. The bank manager should focus on the areas where the bank is losing customers based on demographics. The insights showed that churn is typically coming from Females, the Middle Aged, those who are Married and Single, Blue Card Holders and those with a dependent count of 2/3 dependents.
